@@ -1,6 +1,15 @@
-* THis is Features to changers
+Oh, snap! Gather 'round, y'all, 'cause we're diving into the calculator game, and lemme tell ya, it's like math met a circus and had a wild party! This calculator ain't your average Joe, nah, it's got more tricks up its sleeve than a magician on a caffeine binge.
 
-1. Add looping, so they quit when they want to 
-2. Better Messeges
-3. Devision of zero
-4. Invalid inputs
+So, you're chillin', you enter a number, and boom, it's like the calculator says, "Hey there, partner! Ready for some mathematical rodeo?" You got your basics, like adding and subtracting, but hold on tight, 'cause this calculator ain't stoppin' there.
+
+Ever wanted to square stuff? Cube stuff? Take the square root and do that funky chicken dance while you're at it? Well, buckle up, 'cause this calculator's got moves you've never seen before! Want to know what the derivative of some equation is? Done. How 'bout integrals? Yeah, it's got your back on that too.
+
+But wait, there's more! We're talkin' trigonometry like it's a hot slice of pizza on a Friday night. Sine, cosine, tangent, arcsine, arccosine, arctangent? Oh yeah, this calculator's got all those fancy moves. And if logarithms and exponents are your jam, this calculator's got 'em by the truckload.
+
+But it doesn't stop there, folks! We're talking factorial, binomial coefficients, mean, median, mode, standard deviation, and variance. It's like throwing a math party and everyone's invited!
+
+And guess what? This calculator is no one-trick pony. It's bringing in the big guns with matrix operations, eigenvalues, rank, determinants, inverses, and traces. It's like a math nerd's paradise up in here!
+
+But hey, don't worry about getting lost in the madness. The calculator's got your back with a friendly menu that's gonna guide you through this mathematical carnival. So, whether you're a math whiz or just trying to impress your cat with some numbers, this calculator's got the moves to make it happen.
+
+So, there you have it, my friends! A calculator that's not just crunching numbers, but dancing through the math universe like nobody's business. Get ready to have your mind blown and your calculations calculated like never before! Theo Von out!
