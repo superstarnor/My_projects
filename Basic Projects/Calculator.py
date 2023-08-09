@@ -19,6 +19,8 @@ def calc():
             32: "matrix transpose", 33: "vector dot product",
             34: "vector cross product", 35: "matrix eigenvalues",
             36: "matrix rank", 37: "matrix trace",
+
+
         }
         print("Choose an operation:\n" + "\n".join([f"{key} - {value}" for key, value in ops.items()]))
         op = int(input())
@@ -157,4 +159,3 @@ def calc():
             print("Invalid choice")
 
 calc()
-
