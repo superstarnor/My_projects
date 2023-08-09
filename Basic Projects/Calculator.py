@@ -13,6 +13,8 @@ def calc():
             18: "factorial", 19: "binomial",
             20: "mean", 21: "median", 22: "mode",
             23: "standard deviation", 24: "variance"
+
+
         }
         print("Choose an operation:\n" + "\n".join([f"{key} - {value}" for key, value in ops.items()]))
         op = int(input())
