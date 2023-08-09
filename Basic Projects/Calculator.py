@@ -8,22 +8,22 @@ def calc():
     if choosemode == 1 or choosemode == 2 or  choosemode == 3 or choosemode == 4 :
         print("You've chosen: ", Mode[choosemode])
         if choosemode == 1:
-            userinput = input ("Chose another number \n")
+            userinput = input ("Chose another number: ")
             output =  number + int(userinput)
-            return output
+            
         elif choosemode == 2:
-            userinput = input ("Chose another number \n")
+            userinput = input ("Chose another number: ")
             output =  number - int(userinput)
-            return output
+            
         elif choosemode == 3:
-            userinput = input ("Chose another number \n")
+            userinput = input ("Chose another number: ")
             output =  number * int(userinput)
-            return output
+            
         elif choosemode == 4:
-            userinput = input ("Chose another number \n")
+            userinput = input ("Chose another number: ")
             output =  number / int(userinput)
-            return output
+            
     else: 
         print("You didn't chose a valid options")
-
+    return output
 print(calc())

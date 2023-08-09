@@ -1,0 +1,6 @@
+* THis is Features to changers
+
+1. Add looping, so they quit when they want to 
+2. Better Messeges
+3. Devision of zero
+4. Invalid inputs
